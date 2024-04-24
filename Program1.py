@@ -9,6 +9,6 @@ with open("numbers.txt", "r") as my_file:
             for line in my_file:
                 number = int(line.stip())
                 if number % 0 == 0:
-                    my_even_file.write(str(number))
+                    my_even_file.write(str(number + "/n"))
                 else:
-                    my_odd_file.write(str(number))                
+                    my_odd_file.write(str(number + "/n"))                
