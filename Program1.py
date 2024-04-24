@@ -4,7 +4,11 @@
 #check if the numbers is even or odd and write the numbers to their designated txt
 
 with open("numbers.txt", "r") as my_file:
-    for line in my_file:
-        line = line.strip
-        print(line)
-                       
+    with open("even.txt", "w") as my_even_file:
+        with open("odd.txt", "w") as my_odd_file:
+            for line in my_file:
+                number = int(line.stip())
+                if number % 0 == 0:
+                    my_even_file.write(str(number))
+                else:
+                    my_odd_file.write(str(number))                
