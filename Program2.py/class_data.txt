@@ -1,20 +1,20 @@
-Abril 3.5
-Saiki k. 1.0
-Saitama 3.9
-Frieren 4.0
-Iruma 3.7
-Mob 3.6
-Killua 3.9
-Itachi 4.0
-Nishinoya 3.8
-Bakugo 3.7
-Mystogan 3.6
-Senku 3.9
-Levi 4.0
-Itadori 3.8
-Ponyo 3.7
-Escanor 3.6
-Goku 4.0
-Gojo 3.7
-Gon 3.5
-Gintama 3.6
+Abril,3.5
+Saiki k.,1.0
+Saitama,3.9
+Frieren,4.0
+Iruma,3.7
+Mob,3.6
+Killua,3.9
+Itachi,4.0
+Nishinoya,3.8
+Bakugo,3.7
+Mystogan,3.6
+Senku,3.9
+Levi,4.0
+Itadori,3.8
+Ponyo,3.7
+Escanor,3.6
+Goku,4.0
+Gojo,3.7
+Gon,3.5
+Gintama,3.6
