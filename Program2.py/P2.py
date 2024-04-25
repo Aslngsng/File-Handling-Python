@@ -10,8 +10,6 @@ highest_GWA = 0.0
 highest_student_GWA = ""
 for line in lines:
     student_data = line.strip().split(",")
-    if len (student_data) <2:
-        continue
     student_name = student_data[0]
     GWA = float(student_data[1])
     if GWA >= highest_GWA:
